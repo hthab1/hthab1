@@ -1,7 +1,7 @@
 # Hi! I am Habteweld Yimer. 👋 
 
 <p align="left">
-<a href="[https://hthab.vercel.app]"><img src="https://img.shields.io/badge/-hthab.vercel.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://hthab.vercel.app"><img src="https://img.shields.io/badge/-hthab.vercel.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/habteweld-yimer/"><img src="https://img.shields.io/badge/Habteweld%20Yimer-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:habteweldht@gmail.com"><img src="https://img.shields.io/badge/-habteweldht@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/habteweldyimer"><img src="https://img.shields.io/badge/-@habteweldyimer-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
